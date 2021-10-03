@@ -8,13 +8,12 @@ Browse video games by genres.
 
 ### Libraries and Technologies
 
-Accesses RAWG Video Games Database API for video games related data
-Uses React and React Hooks
-Uses Axios for data fetching, included in a custom React Hook
-Uses React Router for routing
-Styled with Styled Components
-Uses icons from Styled Icons
-Uses Material-UI for styling
+* Accesses RAWG Video Games Database API for video games related data
+* Uses React and React Hooks
+* Uses Axios for data fetching, included in a custom React Hook
+* Uses React Router for routing
+* Styled with Material-UI
+* Uses icons from Material-UI Icons
 
 ### Project setup
 
